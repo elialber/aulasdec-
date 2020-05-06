@@ -1,5 +1,5 @@
-# aulasdec-
-Aulas de c# para iniciantes (trabalho voluntário)
+# Aulas de C#
+Aulas de c# para iniciantes  
 1 – Elabore um algoritmo que calcule a idade média de 5 alunos.  
 2 - Crie um algoritmo que verifique se um número informado é par ou impar  
 3 – Faça um algoritmo que exiba quantas pessoas possuem mais de 18 anos. O algoritmo deverá ler a idade de 10 pessoas.  
